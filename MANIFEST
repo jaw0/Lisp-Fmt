@@ -1,0 +1,7 @@
+README
+CHANGES
+MANIFEST
+Makefile.PL
+Fmt.pm
+t/test.t
+eg/format
